@@ -1,0 +1,152 @@
+eta_par:100.000000	 gamma_para:10.000000	  k_para:1.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1563	 nmi:0.4520	 Purity:0.186250	 Fscore:0.0377	 Precision:0.0195	  Recall:0.5167	 AR:0.0200	 Entropy:4.2935	
+eta_par:100.000000	 gamma_para:10.000000	  k_para:2.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1744	 nmi:0.4746	 Purity:0.199375	 Fscore:0.0423	 Precision:0.0222	  Recall:0.4307	 AR:0.0249	 Entropy:4.0537	
+eta_par:100.000000	 gamma_para:10.000000	  k_para:3.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1781	 nmi:0.4741	 Purity:0.203125	 Fscore:0.0412	 Precision:0.0216	  Recall:0.4374	 AR:0.0238	 Entropy:4.0637	
+eta_par:100.000000	 gamma_para:10.000000	  k_para:4.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1412	 nmi:0.4309	 Purity:0.172500	 Fscore:0.0336	 Precision:0.0174	  Recall:0.4863	 AR:0.0157	 Entropy:4.3942	
+eta_par:100.000000	 gamma_para:10.000000	  k_para:5.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1263	 nmi:0.4064	 Purity:0.153750	 Fscore:0.0297	 Precision:0.0153	  Recall:0.5155	 AR:0.0117	 Entropy:4.5684	
+eta_par:100.000000	 gamma_para:20.000000	  k_para:1.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1219	 nmi:0.3872	 Purity:0.151250	 Fscore:0.0291	 Precision:0.0149	  Recall:0.6318	 AR:0.0110	 Entropy:4.8009	
+eta_par:100.000000	 gamma_para:20.000000	  k_para:2.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1194	 nmi:0.3421	 Purity:0.141875	 Fscore:0.0252	 Precision:0.0129	  Recall:0.6442	 AR:0.0070	 Entropy:5.0686	
+eta_par:100.000000	 gamma_para:20.000000	  k_para:3.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1350	 nmi:0.3866	 Purity:0.157500	 Fscore:0.0279	 Precision:0.0143	  Recall:0.6146	 AR:0.0097	 Entropy:4.7921	
+eta_par:100.000000	 gamma_para:20.000000	  k_para:4.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1106	 nmi:0.3504	 Purity:0.138750	 Fscore:0.0249	 Precision:0.0127	  Recall:0.6126	 AR:0.0066	 Entropy:4.9936	
+eta_par:100.000000	 gamma_para:20.000000	  k_para:5.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0981	 nmi:0.3375	 Purity:0.127500	 Fscore:0.0239	 Precision:0.0122	  Recall:0.6275	 AR:0.0056	 Entropy:5.0636	
+eta_par:100.000000	 gamma_para:30.000000	  k_para:1.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0875	 nmi:0.2846	 Purity:0.113750	 Fscore:0.0238	 Precision:0.0121	  Recall:0.7543	 AR:0.0054	 Entropy:5.4290	
+eta_par:100.000000	 gamma_para:30.000000	  k_para:2.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0862	 nmi:0.2907	 Purity:0.109375	 Fscore:0.0242	 Precision:0.0123	  Recall:0.7498	 AR:0.0059	 Entropy:5.3976	
+eta_par:100.000000	 gamma_para:30.000000	  k_para:3.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0788	 nmi:0.2459	 Purity:0.106875	 Fscore:0.0214	 Precision:0.0108	  Recall:0.7660	 AR:0.0029	 Entropy:5.6225	
+eta_par:100.000000	 gamma_para:30.000000	  k_para:4.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0712	 nmi:0.2262	 Purity:0.099375	 Fscore:0.0205	 Precision:0.0104	  Recall:0.7552	 AR:0.0020	 Entropy:5.7106	
+eta_par:100.000000	 gamma_para:30.000000	  k_para:5.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0488	 nmi:0.1784	 Purity:0.083750	 Fscore:0.0196	 Precision:0.0099	  Recall:0.8298	 AR:0.0011	 Entropy:5.9430	
+eta_par:100.000000	 gamma_para:40.000000	  k_para:1.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0825	 nmi:0.2694	 Purity:0.115000	 Fscore:0.0230	 Precision:0.0117	  Recall:0.7848	 AR:0.0046	 Entropy:5.5169	
+eta_par:100.000000	 gamma_para:40.000000	  k_para:2.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0731	 nmi:0.2586	 Purity:0.102500	 Fscore:0.0225	 Precision:0.0114	  Recall:0.7485	 AR:0.0041	 Entropy:5.5591	
+eta_par:100.000000	 gamma_para:40.000000	  k_para:3.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0556	 nmi:0.1734	 Purity:0.082500	 Fscore:0.0196	 Precision:0.0099	  Recall:0.8228	 AR:0.0011	 Entropy:5.9665	
+eta_par:100.000000	 gamma_para:40.000000	  k_para:4.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0400	 nmi:0.1202	 Purity:0.064375	 Fscore:0.0189	 Precision:0.0095	  Recall:0.8749	 AR:0.0003	 Entropy:6.1966	
+eta_par:100.000000	 gamma_para:40.000000	  k_para:5.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0387	 nmi:0.1334	 Purity:0.064375	 Fscore:0.0191	 Precision:0.0097	  Recall:0.8693	 AR:0.0006	 Entropy:6.1417	
+eta_par:100.000000	 gamma_para:50.000000	  k_para:1.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0706	 nmi:0.2219	 Purity:0.101250	 Fscore:0.0213	 Precision:0.0108	  Recall:0.8202	 AR:0.0029	 Entropy:5.7513	
+eta_par:100.000000	 gamma_para:50.000000	  k_para:2.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0681	 nmi:0.2160	 Purity:0.094375	 Fscore:0.0209	 Precision:0.0106	  Recall:0.7933	 AR:0.0024	 Entropy:5.7719	
+eta_par:100.000000	 gamma_para:50.000000	  k_para:3.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0462	 nmi:0.1716	 Purity:0.076250	 Fscore:0.0196	 Precision:0.0099	  Recall:0.8276	 AR:0.0010	 Entropy:5.9732	
+eta_par:100.000000	 gamma_para:50.000000	  k_para:4.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0375	 nmi:0.1360	 Purity:0.068125	 Fscore:0.0191	 Precision:0.0096	  Recall:0.8683	 AR:0.0005	 Entropy:6.1310	
+eta_par:100.000000	 gamma_para:50.000000	  k_para:5.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0369	 nmi:0.1485	 Purity:0.071875	 Fscore:0.0193	 Precision:0.0097	  Recall:0.8588	 AR:0.0007	 Entropy:6.0763	
+eta_par:1000.000000	 gamma_para:10.000000	  k_para:1.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1625	 nmi:0.5422	 Purity:0.190000	 Fscore:0.1237	 Precision:0.0730	  Recall:0.4068	 AR:0.1096	 Entropy:3.5503	
+eta_par:1000.000000	 gamma_para:10.000000	  k_para:2.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1625	 nmi:0.5418	 Purity:0.189375	 Fscore:0.1237	 Precision:0.0730	  Recall:0.4067	 AR:0.1095	 Entropy:3.5531	
+eta_par:1000.000000	 gamma_para:10.000000	  k_para:3.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1631	 nmi:0.5419	 Purity:0.190000	 Fscore:0.1237	 Precision:0.0730	  Recall:0.4070	 AR:0.1096	 Entropy:3.5536	
+eta_par:1000.000000	 gamma_para:10.000000	  k_para:4.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1631	 nmi:0.5416	 Purity:0.190000	 Fscore:0.1236	 Precision:0.0729	  Recall:0.4063	 AR:0.1095	 Entropy:3.5543	
+eta_par:1000.000000	 gamma_para:10.000000	  k_para:5.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1631	 nmi:0.5416	 Purity:0.190000	 Fscore:0.1236	 Precision:0.0729	  Recall:0.4061	 AR:0.1095	 Entropy:3.5535	
+eta_par:1000.000000	 gamma_para:20.000000	  k_para:1.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1625	 nmi:0.5407	 Purity:0.188125	 Fscore:0.1236	 Precision:0.0728	  Recall:0.4074	 AR:0.1094	 Entropy:3.5636	
+eta_par:1000.000000	 gamma_para:20.000000	  k_para:2.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1625	 nmi:0.5407	 Purity:0.188125	 Fscore:0.1235	 Precision:0.0728	  Recall:0.4071	 AR:0.1093	 Entropy:3.5626	
+eta_par:1000.000000	 gamma_para:20.000000	  k_para:3.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1631	 nmi:0.5399	 Purity:0.188750	 Fscore:0.1233	 Precision:0.0727	  Recall:0.4068	 AR:0.1091	 Entropy:3.5682	
+eta_par:1000.000000	 gamma_para:20.000000	  k_para:4.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1631	 nmi:0.5398	 Purity:0.188750	 Fscore:0.1233	 Precision:0.0727	  Recall:0.4063	 AR:0.1091	 Entropy:3.5683	
+eta_par:1000.000000	 gamma_para:20.000000	  k_para:5.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1631	 nmi:0.5406	 Purity:0.188750	 Fscore:0.1235	 Precision:0.0728	  Recall:0.4068	 AR:0.1093	 Entropy:3.5632	
+eta_par:1000.000000	 gamma_para:30.000000	  k_para:1.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1575	 nmi:0.5417	 Purity:0.185000	 Fscore:0.1226	 Precision:0.0714	  Recall:0.4326	 AR:0.1082	 Entropy:3.5934	
+eta_par:1000.000000	 gamma_para:30.000000	  k_para:2.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1575	 nmi:0.5398	 Purity:0.185000	 Fscore:0.1223	 Precision:0.0716	  Recall:0.4191	 AR:0.1080	 Entropy:3.5870	
+eta_par:1000.000000	 gamma_para:30.000000	  k_para:3.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1619	 nmi:0.5414	 Purity:0.188125	 Fscore:0.1239	 Precision:0.0730	  Recall:0.4112	 AR:0.1097	 Entropy:3.5640	
+eta_par:1000.000000	 gamma_para:30.000000	  k_para:4.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1625	 nmi:0.5396	 Purity:0.188125	 Fscore:0.1231	 Precision:0.0725	  Recall:0.4073	 AR:0.1089	 Entropy:3.5718	
+eta_par:1000.000000	 gamma_para:30.000000	  k_para:5.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1631	 nmi:0.5389	 Purity:0.188750	 Fscore:0.1227	 Precision:0.0722	  Recall:0.4070	 AR:0.1085	 Entropy:3.5779	
+eta_par:1000.000000	 gamma_para:40.000000	  k_para:1.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1381	 nmi:0.5242	 Purity:0.163125	 Fscore:0.1037	 Precision:0.0576	  Recall:0.5250	 AR:0.0883	 Entropy:3.8401	
+eta_par:1000.000000	 gamma_para:40.000000	  k_para:2.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1394	 nmi:0.5241	 Purity:0.164375	 Fscore:0.1031	 Precision:0.0576	  Recall:0.4902	 AR:0.0878	 Entropy:3.8066	
+eta_par:1000.000000	 gamma_para:40.000000	  k_para:3.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1569	 nmi:0.5419	 Purity:0.185625	 Fscore:0.1227	 Precision:0.0715	  Recall:0.4340	 AR:0.1084	 Entropy:3.5851	
+eta_par:1000.000000	 gamma_para:40.000000	  k_para:4.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1606	 nmi:0.5398	 Purity:0.188125	 Fscore:0.1230	 Precision:0.0723	  Recall:0.4120	 AR:0.1088	 Entropy:3.5759	
+eta_par:1000.000000	 gamma_para:40.000000	  k_para:5.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1625	 nmi:0.5397	 Purity:0.188750	 Fscore:0.1231	 Precision:0.0725	  Recall:0.4093	 AR:0.1089	 Entropy:3.5731	
+eta_par:1000.000000	 gamma_para:50.000000	  k_para:1.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1125	 nmi:0.5008	 Purity:0.140625	 Fscore:0.0823	 Precision:0.0441	  Recall:0.6202	 AR:0.0659	 Entropy:4.0937	
+eta_par:1000.000000	 gamma_para:50.000000	  k_para:2.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1225	 nmi:0.5081	 Purity:0.150000	 Fscore:0.0835	 Precision:0.0450	  Recall:0.5827	 AR:0.0672	 Entropy:4.0121	
+eta_par:1000.000000	 gamma_para:50.000000	  k_para:3.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1388	 nmi:0.5254	 Purity:0.164375	 Fscore:0.0955	 Precision:0.0525	  Recall:0.5304	 AR:0.0798	 Entropy:3.8344	
+eta_par:1000.000000	 gamma_para:50.000000	  k_para:4.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1575	 nmi:0.5394	 Purity:0.185625	 Fscore:0.1224	 Precision:0.0715	  Recall:0.4242	 AR:0.1081	 Entropy:3.5921	
+eta_par:1000.000000	 gamma_para:50.000000	  k_para:5.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.1613	 nmi:0.5410	 Purity:0.188750	 Fscore:0.1233	 Precision:0.0724	  Recall:0.4156	 AR:0.1090	 Entropy:3.5723	
+eta_par:10000.000000	 gamma_para:10.000000	  k_para:1.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0600	 nmi:0.3151	 Purity:0.097500	 Fscore:0.0296	 Precision:0.0151	  Recall:0.8037	 AR:0.0114	 Entropy:5.2992	
+eta_par:10000.000000	 gamma_para:10.000000	  k_para:2.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0594	 nmi:0.3149	 Purity:0.097500	 Fscore:0.0296	 Precision:0.0151	  Recall:0.8043	 AR:0.0114	 Entropy:5.3004	
+eta_par:10000.000000	 gamma_para:10.000000	  k_para:3.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0600	 nmi:0.3147	 Purity:0.096875	 Fscore:0.0296	 Precision:0.0151	  Recall:0.8044	 AR:0.0114	 Entropy:5.3020	
+eta_par:10000.000000	 gamma_para:10.000000	  k_para:4.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0600	 nmi:0.3147	 Purity:0.096875	 Fscore:0.0296	 Precision:0.0151	  Recall:0.8044	 AR:0.0114	 Entropy:5.3020	
+eta_par:10000.000000	 gamma_para:10.000000	  k_para:5.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0600	 nmi:0.3149	 Purity:0.096875	 Fscore:0.0296	 Precision:0.0151	  Recall:0.8043	 AR:0.0114	 Entropy:5.3006	
+eta_par:10000.000000	 gamma_para:20.000000	  k_para:1.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0681	 nmi:0.3445	 Purity:0.106250	 Fscore:0.0321	 Precision:0.0164	  Recall:0.7762	 AR:0.0140	 Entropy:5.1332	
+eta_par:10000.000000	 gamma_para:20.000000	  k_para:2.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0600	 nmi:0.3145	 Purity:0.096250	 Fscore:0.0296	 Precision:0.0151	  Recall:0.8044	 AR:0.0114	 Entropy:5.3034	
+eta_par:10000.000000	 gamma_para:20.000000	  k_para:3.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0663	 nmi:0.2995	 Purity:0.1013	 Fscore:0.0232	 Precision:0.0118	  Recall:0.6899	 AR:0.0049	 Entropy:5.3020	
+eta_par:10000.000000	 gamma_para:20.000000	  k_para:4.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0612	 nmi:0.2698	 Purity:0.0975	 Fscore:0.0214	 Precision:0.0108	  Recall:0.7161	 AR:0.0029	 Entropy:5.4678	
+eta_par:10000.000000	 gamma_para:20.000000	  k_para:5.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0644	 nmi:0.2766	 Purity:0.1013	 Fscore:0.0215	 Precision:0.0109	  Recall:0.7063	 AR:0.0031	 Entropy:5.4292	
+eta_par:10000.000000	 gamma_para:30.000000	  k_para:1.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0700	 nmi:0.3342	 Purity:0.1037	 Fscore:0.0265	 Precision:0.0135	  Recall:0.6783	 AR:0.0083	 Entropy:5.1098	
+eta_par:10000.000000	 gamma_para:30.000000	  k_para:1.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0700	 nmi:0.3322	 Purity:0.1037	 Fscore:0.0264	 Precision:0.0134	  Recall:0.6771	 AR:0.0081	 Entropy:5.1203	
+eta_par:10000.000000	 gamma_para:30.000000	  k_para:2.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0694	 nmi:0.3260	 Purity:0.1031	 Fscore:0.0258	 Precision:0.0131	  Recall:0.6777	 AR:0.0075	 Entropy:5.1538	
+eta_par:10000.000000	 gamma_para:30.000000	  k_para:3.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0644	 nmi:0.2821	 Purity:0.1000	 Fscore:0.0221	 Precision:0.0112	  Recall:0.6891	 AR:0.0037	 Entropy:5.3941	
+eta_par:10000.000000	 gamma_para:30.000000	  k_para:4.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0612	 nmi:0.2699	 Purity:0.0969	 Fscore:0.0214	 Precision:0.0108	  Recall:0.7155	 AR:0.0029	 Entropy:5.4666	
+eta_par:10000.000000	 gamma_para:30.000000	  k_para:5.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0612	 nmi:0.2713	 Purity:0.0975	 Fscore:0.0214	 Precision:0.0109	  Recall:0.7127	 AR:0.0030	 Entropy:5.4581	
+eta_par:10000.000000	 gamma_para:40.000000	  k_para:1.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0719	 nmi:0.3483	 Purity:0.1056	 Fscore:0.0280	 Precision:0.0143	  Recall:0.6793	 AR:0.0098	 Entropy:5.0340	
+eta_par:10000.000000	 gamma_para:40.000000	  k_para:2.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0719	 nmi:0.3474	 Purity:0.1062	 Fscore:0.0279	 Precision:0.0142	  Recall:0.6792	 AR:0.0097	 Entropy:5.0386	
+eta_par:10000.000000	 gamma_para:40.000000	  k_para:3.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0694	 nmi:0.3320	 Purity:0.1037	 Fscore:0.0264	 Precision:0.0135	  Recall:0.6754	 AR:0.0081	 Entropy:5.1203	
+eta_par:10000.000000	 gamma_para:40.000000	  k_para:4.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0612	 nmi:0.2727	 Purity:0.0975	 Fscore:0.0215	 Precision:0.0109	  Recall:0.7029	 AR:0.0031	 Entropy:5.4471	
+eta_par:10000.000000	 gamma_para:40.000000	  k_para:5.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0612	 nmi:0.2720	 Purity:0.0975	 Fscore:0.0215	 Precision:0.0109	  Recall:0.7045	 AR:0.0030	 Entropy:5.4516	
+eta_par:10000.000000	 gamma_para:50.000000	  k_para:1.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0719	 nmi:0.3494	 Purity:0.1056	 Fscore:0.0284	 Precision:0.0145	  Recall:0.6767	 AR:0.0102	 Entropy:5.0266	
+eta_par:10000.000000	 gamma_para:50.000000	  k_para:2.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0719	 nmi:0.3499	 Purity:0.1062	 Fscore:0.0283	 Precision:0.0145	  Recall:0.6763	 AR:0.0101	 Entropy:5.0230	
+eta_par:10000.000000	 gamma_para:50.000000	  k_para:3.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0712	 nmi:0.3449	 Purity:0.1056	 Fscore:0.0277	 Precision:0.0141	  Recall:0.6771	 AR:0.0095	 Entropy:5.0509	
+eta_par:10000.000000	 gamma_para:50.000000	  k_para:4.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0600	 nmi:0.2837	 Purity:0.0963	 Fscore:0.0223	 Precision:0.0113	  Recall:0.6742	 AR:0.0039	 Entropy:5.3804	
+eta_par:10000.000000	 gamma_para:50.000000	  k_para:5.000000	
+Dataset:100leaves_Xs.mat	 ACC:0.0606	 nmi:0.2827	 Purity:0.0963	 Fscore:0.0221	 Precision:0.0113	  Recall:0.6794	 AR:0.0038	 Entropy:5.3872	

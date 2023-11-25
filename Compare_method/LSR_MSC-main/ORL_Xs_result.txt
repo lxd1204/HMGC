@@ -1,0 +1,2 @@
+eta_par:10000.000000	 gamma_para:20.000000	  k_para:3.000000	
+Dataset:ORL_Xs	 ACC:0.3700	 nmi:0.6003	 Purity:0.3875	 Fscore:0.2075	 Precision:0.1861	  Recall:0.2344	 AR:0.1871	 Entropy:2.1799	
